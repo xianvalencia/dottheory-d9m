@@ -1,4 +1,4 @@
-# dottheory-d9m
+# dottheory-d9m-challenge
 Starter files for the dotTheory Drupal Module Development training track
 
 ## Running the web server
