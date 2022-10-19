@@ -7,7 +7,7 @@ Starter files for the dotTheory Drupal Module Development training track
     ```sh
     php -S localhost:8888 -t web
     ```
-3. Your site should be accessible on https://localhost:8888
+3. Your site should be accessible on http://localhost:8888
 
 ## Installation
 1. Go to the root of the repository.
@@ -20,7 +20,7 @@ Starter files for the dotTheory Drupal Module Development training track
 5. On the Select an installation profile screen, select Standard and the press Save and Continue button.
 6. On the Database configuration screen, select SQLite and press the Save and Continue button.
 7. On the Configure site screen, fill the form anyway you want and press the Save and Continue button.
-8. You Drupal site should be up and running.
+8. Your Drupal site should be up and running.
 9. Push all the changes on your local repo.
 
 ## Exercise
